@@ -13,6 +13,6 @@ https://edge.enhdtv.com/cn3/tracks-v2a1/mono.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=800000,BANDWIDTH=1000000,RESOLUTION=854x480,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://edge.enhdtv.com/cn3/tracks-v3a1/mono.m3u8
 
-# 4. Calidad Baja - 360p (Códec corregido)
+# 4. Calidad Baja - 360p
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=500000,BANDWIDTH=700000,RESOLUTION=640x360,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
 https://edge.enhdtv.com/cn3/tracks-v4a1/mono.m3u8
