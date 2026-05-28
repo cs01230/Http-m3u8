@@ -1,14 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-# 1. Opción Alta - 1080p Full HD
+# 1. Calidad Súper Alta - 1080p Full HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2240000,BANDWIDTH=2800000,RESOLUTION=1920x1080,FRAME-RATE=29.970,CODECS="avc1.64002a,mp4a.40.2"
 https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
 
-# 2. Opción Media - 720p HD
+# 2. Calidad Alta - 720p HD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1200000,BANDWIDTH=1500000,RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2"
 https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
 
-# 3. Opción Baja - 480p SD (Para conexiones lentas)
+# 3. Calidad Media - 540p qHD
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=900000,BANDWIDTH=1100000,RESOLUTION=960x540,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2"
+https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
+
+# 4. Calidad Estándar - 480p SD
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=600000,BANDWIDTH=800000,RESOLUTION=854x480,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2"
+https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
+
+# 5. Calidad Baja - 240p (Ahorro de datos)
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=250000,BANDWIDTH=350000,RESOLUTION=426x240,FRAME-RATE=29.970,CODECS="avc1.4d4015,mp4a.40.2"
 https://edge.enhdtv.com/cn3/tracks-v1a1/mono.m3u8
