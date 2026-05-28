@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# 1. Calidad Alta - 1080p Full HD
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2200000,BANDWIDTH=2800000,RESOLUTION=1920x1080,FRAME-RATE=29.970,CODECS="avc1.64002a,mp4a.40.2"
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8?hls_ctx=34281p8v
+
+# 2. Calidad Media - 720p HD
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1200000,BANDWIDTH=1500000,RESOLUTION=1280x720,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2"
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8?hls_ctx=34281p8v
+
+# 3. Calidad Baja - 480p SD
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=600000,BANDWIDTH=800000,RESOLUTION=854x480,FRAME-RATE=29.970,CODECS="avc1.4d401f,mp4a.40.2"
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8?hls_ctx=34281p8v
